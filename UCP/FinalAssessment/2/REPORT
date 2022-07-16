@@ -1,0 +1,5 @@
+My game of life program is partially complete. If you run the blinker, beacon and toad files
+the program will run with no issues, but when you try run the bigger files like pulsar.txt,
+for some reason program just outputs a white space, with the right dimensions, just not with
+the right contents. I was'nt able to figure out why this was the case, hence me righting this
+short report :)
